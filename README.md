@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working at: Lithicsoft Organization.
 - 🌱 And currently studying : Thirly school.
-- 📫 Contact me via: beterng@gmail.com 
+- 📫 Contact me via: beterng@gmail.com or my personal account nguyntriphuong@gmail.com
 - 😄 Pronoun: He/Him.
 - ⚡ Fun fact: I did not have any ideas.
 
