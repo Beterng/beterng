@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 🔭 I am currently working at: Lithicsoft Organization.
+- 🔭 I am currently working at: Los - Lithicsoft Office Software.
 - 🌱 And currently studying : Thirly school.
 - 📫 Contact me via: beterng@gmail.com or my personal account nguyntriphuong@gmail.com
 - 😄 Pronoun: He/Him.
