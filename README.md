@@ -1,15 +1,15 @@
 <h1>Hello! I'm Nguyễn Tri Phương👋</h1>
-<h3>An other guy still children are innocent</h3>
 
-- 🔭 I am currently working at: Los - Lithicsoft Office Software.
+- 🔭 I am currently working at: My home workspace
 
-- 🌱 And currently studying : Thirly school.
+- 🌱 And currently studying : Freshman, Thu Dau Mot University.
 
-- 📫 Contact me via: beterng@gmail.com or my personal account nguyntriphuong@gmail.com
+- 📫 Contact me via: beterng@gmail.com or my personal account nguy.tri.phuong@gmail.com
 
 - 😄 Pronoun: He/Him.
 
-- ⚡ Fun fact: **I did not have any ideas.**
+- ⚡ Fun fact: **Unknow how to get your phone number**
+
 
 ## Github Stats
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=beterng&theme=nord&show_icons=true&hide_border=true&count_private=true" /></a>
